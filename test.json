@@ -1,6 +1,6 @@
 {
-  "repo": {
-    "url": "https://github.com/fykaa/kargo-demo.git",
+  "metadata": {
+    "tag": "latest",
     "branch": "main"
   },
   "image": {
