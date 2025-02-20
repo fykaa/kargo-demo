@@ -1,0 +1,7 @@
+---
+metadata:
+  tag: latest
+  branch: main
+image:
+  repo: public.ecr.aws/nginx/nginx
+  tag: 1.26.0
