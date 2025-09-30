@@ -14,4 +14,4 @@ data:
     </html>
 kind: ConfigMap
 metadata:
-  name: kargo-demo-content
+  name: kargo-demo
