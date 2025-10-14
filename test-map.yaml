@@ -1,0 +1,10 @@
+image:
+  tag: "1.26.2"
+rbac:
+  installClusterRoles: true
+app:
+  name: demo-app
+  replicas: 2
+  config:
+    enabled: true
+    port: 8080
