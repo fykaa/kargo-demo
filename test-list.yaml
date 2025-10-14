@@ -1,8 +1,7 @@
-- destination:
-    name: demo1
-    namespace: one
-  weight: 10
-- destination:
-    name: demo2
-    namespace: two
-  weight: 20
+tweets:
+  - User: John Doe
+    Content: Hello, world!
+  - User: Jane Doe
+    Content: Hi, there!
+  - User: Ivan Petrov
+    Content: How are you?
