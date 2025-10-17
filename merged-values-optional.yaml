@@ -1,3 +1,2 @@
 service:
-  enabled: true
   type: LoadBalancer
