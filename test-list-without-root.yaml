@@ -1,8 +1,0 @@
-- destination:
-    name: demo1
-    namespace: one
-  weight: 10
-- destination:
-    name: demo2
-    namespace: two
-  weight: 20
