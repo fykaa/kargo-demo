@@ -1,4 +1,1 @@
-config:
-  host: localhost
-  port: 3000
-  debug: true
+config: { port: 3000 }
